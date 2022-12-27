@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Product_Service</string>
+    <string name="product_name">Название продукта</string>
+    <string name="date_of_get">Дата поступления</string>
+    <string name="count">Количество</string>
+    <string name="cost">Стоимость за единицу</string>
+    <string name="add_product">Добавить продукт</string>
+    <string name="search_product">Поиск продукта</string>
+    <string name="search_header">Введите название продукта</string>
+    <string name="btn_search_product">Найти продукт</string>
+    <string name="product_info">Информация о продукте</string>
+    <string name="product_no_info">Информация о продукте отсутствует</string>
+    <string name="update_product_toast">Информация о продукте обновлена</string>
+    <string name="add_product_toast">Информация о продукте добавлена</string>
+    <string name="error_toast">Пожалуйста, заполните все поля корректно!</string>
+    <string name="fill_gaps_toast">У вас есть незаполненные поля!</string>
+</resources>
